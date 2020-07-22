@@ -1,0 +1,102 @@
+*{
+	padding:0;
+	margin:0;
+}
+.head{
+	background-image: url('../images/bg-masthead.jpg');
+	padding-bottom: 10%;
+}
+.navbar a{
+	color:white;
+}
+.home{
+	color:white;
+	padding:0 10%;
+	text-align: center;
+}
+hr{
+	width: 5%;
+	height:1px;
+}
+.hr{
+	background: tomato;
+	margin:0 auto;
+}
+.hr_1{
+	background: white;
+	margin:0 auto;
+
+}
+.home .btn{
+	border-radius: 20px;
+	background: tomato !important;
+	border:none;
+	font-weight: bold;
+}
+.head_1{
+	background: tomato;
+	color:white;
+}
+.head_1 .btn,.download .btn{
+	background: white !important;
+	border:none;
+	font-weight: bold;
+	color:black;
+}
+.lorem{
+	padding: 5% 10%;
+	text-align: center;
+}
+.service h3{
+	text-align: center;
+}
+.service{
+	margin:5% 0;
+	padding:0 5%;
+}
+.template{
+	text-align: center;
+	margin:3% 0;
+
+}
+.icon{
+	font-size: 40px;
+	color:tomato;
+}
+.img-box{
+	padding: 0 15px;
+}
+.images{
+	padding: 0;
+}
+.images_1{
+	width: 100%;
+}
+.download{
+	background: #0c1c49;
+	color:white;
+	text-align: center;
+	padding:5% 0;
+}
+.touch{
+	text-align: center;
+	padding:5% 0;
+}
+.btn{
+	font-size:13px;
+}
+.phone{
+	font-size: 20px
+}
+.sturdy{
+	font-weight: bold;
+}
+.footer{
+	width: 50%;
+}
+.contact{
+	margin:3% 0;
+}
+
+
+
